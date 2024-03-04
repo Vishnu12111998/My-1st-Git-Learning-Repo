@@ -1,0 +1,3 @@
+line 1 of tex file
+line 2 of tex file
+tisri line add kri hai
